@@ -11,3 +11,7 @@ function happyHolidaysTo(Raqeeb){
 function happyHolidayTo(Eid, Raqeeb){
   return `Happy ${Eid}, ${Raqeeb}!`;
 }
+
+function holidayCountdown(Eid, three){
+  return `It's ${days} days until ${three}!`;
+}
