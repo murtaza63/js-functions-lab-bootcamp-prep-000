@@ -4,6 +4,6 @@ function happyHolidays(){
 }
 happyHolidays();
 
-/*function happyHolidays(Raqeeb){
+function happyHolidays(Raqeeb){
   return `Happy holidays, ${Raqeeb}`;
-}*/
+}
