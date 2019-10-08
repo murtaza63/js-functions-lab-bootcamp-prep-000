@@ -4,3 +4,6 @@ function happyHolidays(){
 }
 happyHolidays();
 
+function happyHolidaysTo(Raqeeb){
+  return `Happy holidays, ${Raqeeb}`
+}
