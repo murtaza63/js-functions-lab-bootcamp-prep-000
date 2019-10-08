@@ -7,3 +7,7 @@ happyHolidays();
 function happyHolidaysTo(Raqeeb){
   return `Happy holidays, ${Raqeeb}!`;
 }
+
+function happyHolidayTo(Eid, Raqeeb){
+  return `Happy ${Eid}, ${Raqeeb}!`;
+}
