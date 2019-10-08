@@ -4,6 +4,3 @@ function happyHolidays(){
 }
 happyHolidays();
 
-function happyHolidays(Raqeeb){
-  return `Happy holidays, ${Raqeeb}`;
-}
